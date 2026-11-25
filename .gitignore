@@ -1,0 +1,15 @@
+# make.fun entry: the-meeting-that-should-have-been-an-email (u-plucky-finch-20)
+# Local build artefacts for this one-line entry only — keep the repo to source.
+__pycache__/
+*.pyc
+*.pyo
+output/
+entry.txt
+.bundle/
+bundle.tar.gz
+kit.tar.gz
+u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9-kit/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
